@@ -9,7 +9,7 @@ dx.messages.ko.js
 필요한 
 
 ### _Layout.cshtml
-<script src="~/Scripts/localization/dx.messages.ko.js"></script>
+<script src="~/Scripts/localization/dx.messages.ko.js"></script> <br/>
 
 <script>
     DevExpress.localization.locale("ko");
